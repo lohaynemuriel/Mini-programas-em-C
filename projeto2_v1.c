@@ -1,3 +1,7 @@
+//o trabalho consistia em desenvolver um algotimo que ao receber dois fragmentos de uma especie desconhecida, dizer se eram iguais ou nao. 
+//Entretanto, não importa a ordem das bases desse DNA mas sim a quantidade de cada base.
+//Se o numero de repetições de cada base forem iguais então os fragmentos são iguais.
+
 #include <stdio.h> /*importando biblioteca para prinf e scanf*/
 #include <string.h> /*importando biblioteca para manipulação de strings*/
 
