@@ -1,3 +1,7 @@
+/*Enunciado: Escreva	 um	 programa	 que	 receba	 do	 usuário	 as	 dimensões	 NUM_LIM	 e	
+NUM_COL (máximo	 20)	 e	 os	 dados	 de	 uma	 matriz	 bidimensional,	 e	 imprima	 a	 matriz	
+transposta	na	tela.*/
+
 #include<stdio.h>
 
 #define lin 20
