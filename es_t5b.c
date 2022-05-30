@@ -1,3 +1,8 @@
+/*Enunciado: Uma	 determinada	 loja	 comercializa	 10	 produtos	 diferentes.	 Escreva	 um	
+programa	 que	 receba	 a	 quantidade	 vendida	 e	 o	 valor	 unitário	 de	 cada	 produto	 e	 os	
+armazene	 em	 dois	 vetores.	 Após	 a	 leitura,	 o	 programa	 deve	 calcular	 o	 total	 de	 produtos	
+vendidos, o	faturamento	total	da	loja e	exibi-los	na	tela.*/
+
 #include <stdio.h>
 
 int main(){
