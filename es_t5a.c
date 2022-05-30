@@ -1,3 +1,8 @@
+/*Enunciado: Escreva	um	programa	que	leia	20	notas (valores	reais	entre	0	e	10),	armazene-as	
+em	um	vetor	e	então	diga	se	uma	determinada	nota	x digitada	pelo	usuário	existe	no	vetor.	
+O	 programa	 deve	 repetir	 o	 procedimento	 de	leitura	 de	x e	 busca	 de	x no	vetor	até	 que	 o	
+usuário	digite	um	valor	negativo*/
+
 #include <stdio.h>
 
 int main (){
