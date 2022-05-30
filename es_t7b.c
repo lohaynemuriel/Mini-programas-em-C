@@ -1,3 +1,8 @@
+/Enunciado: Faça um programa que teste se uma palavra é um palíndromo, ou seja, se ela 
+pode ser lida da mesma forma tanto na ordem correta quanto na ordem invertida. Este 
+programa não pode ser sensível a letras maiúsculas, ou seja, por exemplo, ele deve indicar 
+que “Arara” é um palíndromo.]*/
+    
 #include<stdio.h>
 #include <string.h>
 
