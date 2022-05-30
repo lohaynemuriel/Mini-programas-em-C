@@ -1,3 +1,6 @@
+/*Enunciado: Escreva	 um	 programa	 que	 carregue	 dois	 vetores	 com	 10	 valores	 inteiros	 cada	
+um	e	mostre	o	vetor	resultante	da	intercalação	destes	dois	vetores.*/
+
 #include <stdio.h>
 
 int main(){
