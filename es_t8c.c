@@ -1,3 +1,9 @@
+/*Enunciado:	 Escreva	 um	 programa	 que	 contenha	 uma	 estrutura	 chamada	 “corpo”,	 com	 os	
+campos	altura (tipo	float),	peso (tipo	float)	e	nome (tipo	string).	Este	programa	deve	ler	os	
+dados	 de	 um	 usuário (altura,	 peso	 e	 nome),	 armazená-los	 em	 uma	 variável	 da	 estrutura	
+corpo	e,	em	seguida,	acessar	estes	valores	armazenados,	calcular	o	IMC	(divisão	entre	peso	e	
+o	quadrado	da	altura)	e	exibir	o	resultado	na	tela.*/
+    
 #include<stdio.h>
 #include<math.h>
 
