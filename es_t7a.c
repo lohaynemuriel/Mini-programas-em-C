@@ -1,3 +1,7 @@
+/*Enunciado: Escreva um programa que leia uma string qualquer (máximo 80 caracteres) e 
+imprima na tela a sua versão espelhada, ou seja, a mesma string mas com a ordem dos 
+caracteres invertida.*/
+    
 #include <stdio.h>
 #include <string.h>
 
