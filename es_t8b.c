@@ -1,3 +1,10 @@
+/*Enunciado:	Defina	um	tipo	“Retângulo”	para	armazenar	as	coordenadas	dos	pontos	inferior	
+esquerdo e	 superior	 direito de	 um	 retângulo	 contido	 no	 primeiro	 quadrante	 do	 plano	
+cartesiano	e	 cujos	 lados	 são	 paralelos	aos	eixos	 (utilize a	estrutura	 “Ponto”	 do	ES_T8a).	A	
+partir	 deste	 tipo	 definido,	seu	 programa	 deverá ler	 as	 coordenadas	 (inferior	 esquerda	 e	
+superior	direita)	de	dois	retângulos	e	indicar	se	o	segundo	retângulo	está	totalmente	contido	
+no	primeiro	ou	não.*/
+
 #include<stdio.h>
 #include<math.h>
 
