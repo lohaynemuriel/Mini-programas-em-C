@@ -1,3 +1,9 @@
+/*Enunciado:	 Escreva	 um	 programa	 que	 simule	 o	 funcionamento	 de	 uma	 calculadora	 com	
+cinco	 operações	 (+,-,*,	 /	 e	 ^).	 Esse	 programa	 deverá	 ler	 os	 operandos	 e	 o	 operador	 (no	
+formato	 número operador número)	 e	 exibir	 o	 resultado	 da	 operação.	 O	 operador	 ^	
+corresponde	ao	operador	“elevado	a”	(potência).	Cada	operador	deve	ser	implementado	em	
+uma	função	própria,	definida	após a main()*/
+
 #include<stdio.h>
 #include<math.h>
 
