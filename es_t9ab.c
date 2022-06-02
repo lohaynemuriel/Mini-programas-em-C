@@ -1,3 +1,10 @@
+/*Enunciado:	 Escreva	 uma	 função	 chamada	 “media” que	 receba	 duas	 notas	 (float)	 e	 um	
+caractere.	Caso	este	caractere	seja		'A',	a	função	deve	retornar	a	média	aritmética das	duas	
+notas.	Caso	seja	'B',	a	média	geométrica (raiz	quadrada	do	produto	das	duas	notas)	deve	ser	
+retornada.	Escreva	também	um	programa	que	leia	os	valores	das	duas	notas	e	do	caractere,	
+chame	a	 função	média	e	imprima	o	 resultado	na	 tela.	A	função	“media” deve	ser	definida	
+após a	função	main()*/
+
 #include<stdio.h>
 #include<math.h>
 
