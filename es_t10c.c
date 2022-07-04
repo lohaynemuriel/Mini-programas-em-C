@@ -1,3 +1,10 @@
+/*Enunciado: Crie uma estrutura para armazenar os seguintes dados de um aluno: nome (string com 
+100 caracteres), ra (número inteiro), nota P1 e nota P2 (valores em ponto flutuante). Em seguida, 
+crie um programa que leia os dados de n alunos (n dado pelo usuário) e os armazene em um vetor 
+alocado dinamicamente. Por fim, seu programa deve percorrer o vetor armazenado e apresentar a 
+média de cada aluno, sendo uma por linha, no formato “RA Nome Média” (valores separados por um 
+‘\t’). A média deve ser apresentada com duas casas decimais.*/
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
