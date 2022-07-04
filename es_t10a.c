@@ -1,3 +1,13 @@
+/*Enunciado: Implemente um programa que faça a avaliação de polinômios de um grau qualquer. 
+Este programa deve:
+1. Ler o grau do polinômio (número inteiro);
+2. Ler os coeficientes do polinômio (pontos flutuantes, fornecidos do menor para o maior grau)
+e armazená-los em um vetor dinamicamente alocado, de tamanho adequado ao grau do 
+polinômio.
+3. Ler o valor de 𝑥 (ponto flutuante) e retornar o valor resultante.
+
+Parte 2: calcular o valor derivando*/
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <math.h>
