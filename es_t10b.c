@@ -1,3 +1,7 @@
+/*Enunciado: Implemente um programa que leia o número de linhas e colunas de uma matriz, 
+seguidos dos valores desta matriz (inteiros), e indique se a matriz é simétrica ou não. Os dados da 
+matriz serão fornecidos linha à linha, ou seja, primeiro será preenchida a primeira linha, depois a 
+segunda e assim por diante. Seu programa deve usar alocação dinâmica para armazenar a matriz.*/
 
 #include<stdio.h>
 #include<stdlib.h>
